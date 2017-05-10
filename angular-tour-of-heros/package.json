@@ -25,6 +25,7 @@
     "zone.js": "^0.8.4"
   },
   "devDependencies": {
+    "angular-in-memory-web-api": "0.1.13",
     "@angular/cli": "1.0.2",
     "@angular/compiler-cli": "^4.0.0",
     "@types/jasmine": "2.5.38",
