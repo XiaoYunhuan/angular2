@@ -42,6 +42,10 @@
     "ts-node": "~2.0.0",
     "tslint": "~4.5.0",
     "typescript": "~2.2.0",
+<<<<<<< HEAD
     "systemjs":"~0.20.12"
+=======
+    "systemjs": "~0.20.12"
+>>>>>>> cf170ec7cf7f65a4bcff45bcc73fc3bc15f33b55
   }
 }

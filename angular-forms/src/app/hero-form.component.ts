@@ -21,6 +21,11 @@ export class HeroFormComponent {
   get diagnostic() { return JSON.stringify(this.model); }
 
   newHero() {
+<<<<<<< HEAD
     this.model = new Hero(42, '', '');
   }
+=======
+  this.model = new Hero(42, '', '');
+}
+>>>>>>> cf170ec7cf7f65a4bcff45bcc73fc3bc15f33b55
 }
